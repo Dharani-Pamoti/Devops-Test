@@ -1,1 +1,2 @@
 This is info txt
+One more statement is updated
